@@ -34,12 +34,13 @@
     "grunt": "^1.0.2",
     "moment": "^2.22.1",
     "moment-timezone": "^0.5.16",
+    "request": "^2.85.0",
     "tz-lookup": "^6.1.7",
     "uws": "^9.148.0",
     "zlib-sync": "^0.1.4"
   },
   "devDependencies": {
-    "grunt-contrib-nodeunit": "git+https://git@github.com/arandomoracle/grunt-contrib-nodeunit.git",
+    "grunt-contrib-nodeunit": "git+https://github.com/arandomoracle/grunt-contrib-nodeunit.git",
     "gruntify-eslint": "^4.0.0"
   },
   "keywords": []

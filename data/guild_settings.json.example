@@ -1,0 +1,8 @@
+{
+  "GUILD_ID": {
+    "enabled": true,
+    "raidCreateChannelIds": [ "RAID_CREATE_CHANNEL_ID" ],
+    "raidInfoChannelIds": [ "RAID_INFO_CHANNEL_ID" ],
+    "raidCategoryId": "RAID_CATEGORY_CHANNEL_ID"
+  }
+}

@@ -39,7 +39,7 @@
     "zlib-sync": "^0.1.4"
   },
   "devDependencies": {
-    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-contrib-nodeunit": "git+https://git@github.com/arandomoracle/grunt-contrib-nodeunit.git",
     "gruntify-eslint": "^4.0.0"
   },
   "keywords": []
